@@ -6,7 +6,7 @@
 
 ชื่อ-สกุล : 680610694
 
-GitHub Page URL :https://github.com/mingsa405-lgtm/lab11-680610694.git
+GitHub Page URL : https://mingsa405-lgtm.github.io/lab11-680610694/
 
 ---
 
